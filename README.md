@@ -8,7 +8,7 @@ Entity\
 
 ## API Document
 - [Postman doc](https://documenter.getpostman.com/view/2810759/TVmJheYo)
-- [Postman collection](https://www.getpostman.com/collections/d882f26c82ca0f549cf9)
+- Postman Collection Link: https://www.getpostman.com/collections/d882f26c82ca0f549cf9
 - [Swagger doc](http://localhost:8080/swagger-ui.html)
 
 ## Build, Run
