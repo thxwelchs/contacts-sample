@@ -6,7 +6,7 @@ DB\
 Entity\
 ![image](https://user-images.githubusercontent.com/38197077/100539931-467f9800-327d-11eb-8fbb-6f4f827d9ce6.png)
 
-## API Request Description
+## API Document
 - [Postman doc](https://documenter.getpostman.com/view/2810759/TVmJheYo)
 - [Swagger doc](http://localhost:8080/swagger-ui.html)
 
